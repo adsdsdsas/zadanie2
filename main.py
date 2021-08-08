@@ -32,10 +32,10 @@ class Student:
 # with open('files/data.json', 'w') as f:     # stworz plik data.json
 #     pass
 #
-# student1 = Student('Bartosz', 'Bizański')
-# student2 = Student('Michał', 'Kaczmarek')
-# student3 = Student('Ludi', 'Pilch')
-# student4 = Student('Julcia', 'Mika')
+# student1 = Student('Bartosz', 'Bałaganiarz')
+# student2 = Student('Michał', 'Kaczor')
+# student3 = Student('Ludwika', 'Płtoka')
+# student4 = Student('Julcia', 'Maskotka')
 # student1.add_student()
 # student2.add_student()
 # student3.add_student()
